@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/12alltv/capacitor-clear.git"
+    "url": "git+https://github.com/12alltv/capacitor-clear-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/12alltv/capacitor-clear/issues"
+    "url": "https://github.com/12alltv/capacitor-clear-plugin/issues"
   },
   "keywords": [
     "capacitor",
