@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "ClearPlugin",
+    "slug": "clearplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "clearCache",
+        "signature": "() => Promise<{ value: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ value: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "clearcache"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
