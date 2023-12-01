@@ -1,5 +1,4 @@
-import {registerPlugin} from '@capacitor/core';
-
+import { registerPlugin } from '@capacitor/core';
 const Clear = registerPlugin('Clear', {
     web: () => import('./web').then(m => new m.ClearWeb()),
 });
