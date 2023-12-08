@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-clear",
+  "name": "capacitor-clear-plugin",
   "version": "0.0.1",
   "description": "Clear data",
   "main": "dist/plugin.cjs.js",
@@ -11,9 +11,9 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorClear.podspec"
+    "CapacitorClearPlugin.podspec"
   ],
-  "author": "",
+  "author": "Nicolas",
   "license": "MIT",
   "repository": {
     "type": "git",
